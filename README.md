@@ -2,25 +2,34 @@
 
 
 it is a profie of a patient and it shows what to eat
-/
 
 
 
 
 
-contact doctors
-/
+
+
+
+
+click on get service to contact doctors
+
+
+
+
 
 
 near by hospitals
 
 
-/
+
+
+
 
 
 submit problem and enter address and ph.no
 
-/
+
+
 
 
 
