@@ -2,9 +2,28 @@
 
 
 it is a profie of a patient and it shows what to eat
+/
+
+
+
+
+
 contact doctors
+/
+
+
 near by hospitals
+
+
+/
+
+
 submit problem and enter address and ph.no
+
+/
+
+
+
 **to see popup on screen click on get solution**
 
 
